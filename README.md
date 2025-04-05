@@ -13,6 +13,7 @@
 | **Performance** | 🖥️ CPU usage graphs<br>💾 Memory statistics<br>💽 Disk space monitoring               |
 | **UI/UX**       | 🌙 Dark theme<br>🌍 4 language support<br>🔄 Auto-refreshing data                  |
 
+
 ## 🛠️ Installation
 
 ```bash

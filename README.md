@@ -1,7 +1,6 @@
 # 🚀 Task Manager Application
 
 <div align="center">
-  <img src="screenshot.png" alt="Task Manager Screenshot" width="600"/>
   <br/>
   <em>Modern system monitoring tool with multilingual support</em>
 </div>

@@ -26,11 +26,3 @@ pip install -r requirements.txt
 # Run the application
 python task_manager_app.py
 
-# Architecture highlights
-class TaskManagerApp:
-    """
-    - Multithreaded design
-    - SQLite error logging
-    - Dynamic UI theming
-    - Efficient process scanning
-    """
